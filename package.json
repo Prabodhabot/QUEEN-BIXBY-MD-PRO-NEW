@@ -1,7 +1,7 @@
 {
-  "name": "Queen Bixby-MD",
+  "name": "𝐏𝐑𝐀𝐁𝐎𝐃𝐇𝐀 𝐏𝐑𝐀𝐒𝐇𝐀𝐃 𝐌𝐀𝐋𝐈𝐍𝐆𝐀",
   "version": "2.0.0",
-  "description": "WhatsApp Using Lib Baileys Multi Device",
+  "description": "𝐏𝐑𝐀𝐁𝐎𝐃𝐇𝐀 𝐏𝐑𝐀𝐒𝐇𝐀𝐃 𝐌𝐀𝐋𝐈𝐍𝐆𝐀",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "NexusNw",
+  "author": "𝐏𝐑𝐀𝐁𝐎𝐃𝐇𝐀 𝐏𝐑𝐀𝐒𝐇𝐀𝐃 𝐌𝐀𝐋𝐈𝐍𝐆𝐀",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -66,10 +66,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW.git"
+    "url": "git+https://chat.whatsapp.com/L9fqeLreHdZGYBjuWBSXIDgit"
   },
   "bugs": {
-    "url": "https://github.com/nexusNw/Gojo-Satoru/issues"
+    "url": "https://chat.whatsapp.com/L9fqeLreHdZGYBjuWBSXID"
   },
-  "homepage": "https://github.com/nexusNw/Gojo-Satoru#readme"
+  "homepage": "https://chat.whatsapp.com/L9fqeLreHdZGYBjuWBSXID"
 }
