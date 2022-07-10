@@ -1,18 +1,18 @@
 {
-  "name": "𝐏𝐑𝐀𝐁𝐎𝐃𝐇𝐀 𝐏𝐑𝐀𝐒𝐇𝐀𝐃 𝐌𝐀𝐋𝐈𝐍𝐆𝐀",
-  "description": "𝐏𝐑𝐀𝐁𝐎𝐃𝐇𝐀 𝐏𝐑𝐀𝐒𝐇𝐀𝐃 𝐌𝐀𝐋𝐈𝐍𝐆𝐀",
-  "repository": "https://chat.whatsapp.com/L9fqeLreHdZGYBjuWBSXID",
-  "logo": "https://telegra.ph/file/8426563fd8af2226b417f.jpg",
+  "name": "Queen Bixby-MD Pro",
+  "description": "WhatsApp MD bot build with nodejs",
+  "repository": "https://github.com/Prabodhabot/QUEEN-BIXBY-MD-PRO-NEW",
+  "logo": "https://telegra.ph/file/5fb8366c76ea6cd1177f6.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
-      "url": "https://chat.whatsapp.com/L9fqeLreHdZGYBjuWBSXID"
+      "url": "heroku/nodejs"
     },
     {
-      "url": "https://chat.whatsapp.com/L9fqeLreHdZGYBjuWBSXID"
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     },
     {
-      "url": "https://chat.whatsapp.com/L9fqeLreHdZGYBjuWBSXID"
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
   ],
    "formation": {
